@@ -11,7 +11,7 @@
 
 <!-- Visitor Count Badge & Status -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=msm-codex&label=Profile%20Views&color=7928CA&style=for-the-badge" alt="Profile Views" />
+  <a href="https://hits.sh/github.com/msm-codex/"><img src="https://hits.sh/github.com/msm-codex.svg?style=for-the-badge&label=Profile%20Views&color=7928ca&labelColor=555555" alt="Profile Views" /></a>
   <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-success?style=for-the-badge&logo=codeforces" alt="Status" />
 </p>
 
